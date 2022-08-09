@@ -33,7 +33,7 @@ from sklearn.preprocessing import StandardScaler
 
 ## Usage
 
-To use this machine learning application simply clone the repository and run the **ecrypto_investments.ipynb** with:
+To use this machine learning application simply clone the repository and run the **crypto_investments.ipynb** with:
 
 ```python
   crypto_investments.ipynb
