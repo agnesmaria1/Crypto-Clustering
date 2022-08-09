@@ -21,7 +21,7 @@ This project leverages python 3.7 with the following package:
 Before running the application first install the following dependencies.
 
 ```python
-  import pandas as pd
+import pandas as pd
 import hvplot.pandas
 from pathlib import Path
 from sklearn.cluster import KMeans
